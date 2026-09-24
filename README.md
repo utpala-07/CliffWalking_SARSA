@@ -82,6 +82,7 @@ Trained Agent Visualization
 The GIF below shows the trained SARSA agent navigating the Cliff Walking environment using the learned Q-values.
 
 ## Visualization
+<img width="682" height="257" alt="image" src="https://github.com/user-attachments/assets/98b7cbf1-3cf1-4dab-b009-b1571b16e1d8" />
 
 
 ## Technologies Used
