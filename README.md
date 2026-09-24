@@ -83,8 +83,6 @@ The GIF below shows the trained SARSA agent navigating the Cliff Walking environ
 
 ## Visualization
 
-![CliffWalking_SARSA](SARSA.gif)
-
 
 ## Technologies Used
 Python
