@@ -86,10 +86,10 @@ The GIF below shows the trained SARSA agent navigating the Cliff Walking environ
 
 
 ## Technologies Used
-Python
-NumPy
-Gymnasium
-Reinforcement Learning
-SARSA
-Q-Table
-Epsilon-Greedy Policy
+- Python
+- NumPy
+- Gymnasium
+- Reinforcement Learning
+- SARSA
+- Q-Table
+- Epsilon-Greedy Policy
